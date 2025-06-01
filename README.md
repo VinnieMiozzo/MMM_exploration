@@ -9,9 +9,9 @@ This repository contains my exploratory work on Marketing Mix Modeling (MMM), a 
 - Build a foundation for a comprehensive MMM project with real-world applicability.
 
 ## Datasets
-- Forecastegy Advertising Dataset: Contains TV, radio, and newspaper ad spend with corresponding sales revenue (3 input variables, 1 output).
+- Advertising Dataset: Contains TV, radio, and newspaper ad spend with corresponding sales revenue (3 input variables, 1 output).
 
-- Forecastegy Digital Marketing Dataset: Includes monthly spend across 12 traditional and digital channels (e.g., TikTok, Facebook, Google Ads) and sales data.
+- Digital Marketing Dataset: Includes monthly spend across 12 traditional and digital channels (e.g., TikTok, Facebook, Google Ads) and sales data.
 
 - Source: Both datasets are sourced from kaggle.com. Please link back to Forecastegy if using their data.
 
